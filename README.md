@@ -1,11 +1,14 @@
 # Portfólio - Leandro Cardoso
 Esse projeto tem o intuito de divulgar todos os meus projetos públicos e minhas habilidades e conhecimentos em desenvolvimento de sistemas de forma geral.
+* [MIT License](https://github.com/Leandro-Cardoso/SITE-Portfolio-Leandro-Cardoso/blob/master/LICENSE)
 
 ## Tecnologias:
-* Git
-* HTML, CSS e JavaScriipt
-* TypeScript
-* React
+* **Git** - *Sistema de controle de versão.*
+* **HTML, CSS e JavaScript** - *Base web.*
+* **Json**
+* **TypeScript** - *Para evitar problemas de tipos, debugar facilmente, ter um código mais bem definido e com melhor performance.*
+* **React**
+* **Next**
 
 ## Passos do desenvolvimento:
 <ol>
@@ -15,13 +18,14 @@ Esse projeto tem o intuito de divulgar todos os meus projetos públicos e minhas
     <li>Montagem da estrutura de pastas e arquivos.</li>
     <li>Licença.</li>
     <h3>Front-End:</h3>
-    <li>Configuração do projeto React.</li>
+    <li>Configuração do projeto React e Next.</li>
 </ol>
 
 ## Implementar:
 ### Front-End:
 * Configurar React.
 * Configurar TypeScript.
+* Criar dependencias.
 * Criar layout.
 * Criar paginas e componentes.
 ### Back-End:
@@ -30,5 +34,6 @@ Esse projeto tem o intuito de divulgar todos os meus projetos públicos e minhas
 * Criar requirements.txt
 * Configurar Django.
 * Criar banco de dados (possivelmente SQLite)
-* Criar tabelas (users e posts).
+* Criar tabelas (projects, users e posts).
+* Criptografia.
 * Criar Blog.
